@@ -15,5 +15,5 @@ ddnsConfig:
       host: "@"
       domain: example.com
       ipVersion: ""
-      aliyunAccessKey: LTAI5tRQsaRtRWMZF6LSECmq
-      aliyunSecret: lraFQbHLRao1toSznkRTDQnT65nVTl
+      aliyunAccessKey: LTAI5tMfpETzSoX7LTjeJosf
+      aliyunSecret: 7opgoOdyFyw7hY3PjmnduLsL1iWOTJ
